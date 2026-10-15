@@ -38,7 +38,7 @@ Classify six activities—walking, walking upstairs, walking downstairs, sitting
 Random seeds are set where practical. TensorFlow operations and platform differences can still cause small numerical differences. The dataset uses engineered features; future work could model raw sensor time windows using a 1D CNN or LSTM. Permutation importance is computed on a small sample and a subset of features, so interpret it as exploratory rather than causal.
 
 ## Author
-- Student: [Your Name]
-- Roll No.: [Your Roll Number]
+- Student: PRAGHATHISH S
+- Roll No.: 23AM045
 - Department: CSE (AI&ML)
-- Institution: [Your College]
+- Institution: KPR Institute of Engineering and Technology
